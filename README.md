@@ -1,6 +1,14 @@
 <<<<<<< HEAD
 # AWS S3 Static Website with CloudFront using Terraform
 
+# 🌐 AWS S3 Static Website with CloudFront using Terraform
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform)
+![CloudFront](https://img.shields.io/badge/Amazon-CloudFront-blue)
+![Amazon S3](https://img.shields.io/badge/Amazon-S3-success)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+
 ## Project Overview
 
 This project provisions a secure static website on AWS using Terraform.
