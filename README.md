@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# AWS S3 Static Website with CloudFront using Terraform
 
 # 🌐 AWS S3 Static Website with CloudFront using Terraform
 
