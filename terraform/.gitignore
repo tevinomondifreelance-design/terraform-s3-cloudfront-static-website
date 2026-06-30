@@ -1,0 +1,22 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Sensitive Variables
+terraform.tfvars
+
+# CLI files
+.terraform.lock.hcl
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
