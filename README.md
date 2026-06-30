@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS S3 Static Website with CloudFront using Terraform
 
 ## Project Overview
@@ -93,3 +94,6 @@ _Add screenshot_
 **Tevin Omondi**
 
 Aspiring Cloud Architect | AWS | Terraform | DevOps
+=======
+# terraform-s3-cloudfront-static-website
+>>>>>>> 7e567213601616e6d2c024e09f602c2306fad846
