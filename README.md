@@ -56,10 +56,17 @@ terraform apply
 
 ---
 
-## Outputs
+## CloudFront Distribution
 
-- CloudFront URL
-- S3 Bucket Name
+- CloudFront URL: d62pv7v6kxgpy.cloudfront.net
+
+  ## S3 Bucket
+- S3 Bucket Name: tevin-portfolio-2026-tf
+
+<p align="center">
+  <img src="Screenshots/S3-bucket.jpg" width="45%">
+  <img src="Screenshots/cloudfront.jpg" width="45%">
+</p>
 
 ---
 
@@ -67,16 +74,20 @@ terraform apply
 
 ### Terraform Apply
 
-_Add screenshot_
+<p align="center">
+<img src="Screenshots/terraform apply.jpg" width="800">
+</p>
 
 ### AWS Resources
 
-_Add screenshot_
+<p align="center">
+<img src="Screenshots/AWS-resource.jpg" width="800">
+</p>
 
-### Website
-
-_Add screenshot_
-
+## Website
+<p align="center">
+<img src="Screenshots/homepage.jpg" width="800">
+</p>
 ---
 
 ## Lessons Learned
