@@ -109,6 +109,8 @@ terraform apply
 ## Author
 
 **Tevin Omondi**
+- LinkedIn: https://www.linkedin.com/in/tevin-omondi-131141355/
+- GitHub: https://github.com/tevinomondifreelance-design
 
 Aspiring Cloud Architect | AWS | Terraform | DevOps
 =======
